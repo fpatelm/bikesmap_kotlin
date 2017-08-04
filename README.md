@@ -32,4 +32,5 @@
 - Ljubljana
 
 ![Alt text](/screenImages/splashScreen.png?raw=true "Splash Screen")
-# bikesmap_kotlin
+![Alt text](/screenImages/selectcity.png?raw=true "Select Dialog")
+![Alt text](/screenImages/results.png?raw=true "Results List")
